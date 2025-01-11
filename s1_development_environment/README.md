@@ -6,7 +6,7 @@
 
 - ![](../figures/icons/terminal.png){align=right : style="height:100px;width:100px"}
 
-    Learn the basics of the command lines, and how to use it to navigate your file system and run programs.
+    Learn the basics of the command linesssss, and how to use it to navigate your file system and run programs.
 
     [:octicons-arrow-right-24: M1: Command line](command_line.md)
 
